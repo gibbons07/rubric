@@ -1,1 +1,25 @@
 
+​h1 { 
+
+
+color:LightGray;
+text-align: center;
+} 
+p{
+font-size: 35px;
+color:AliceBlue; 
+text-align: center;
+font-family: Georgia, serif;
+}
+body{
+
+background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS45JViWzXAz6cGJW0FyOTxPuHy2VUpzzs5vg&s);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+color:Aliceblue;
+background-color:Pink;
+
+
+  
+}
